@@ -1,5 +1,5 @@
 - 🚤 Yellow, I’m Miguel Fernandes
-- 👀 I’m interested in coding
-- 💻 I’m currently learning vue.js
-- 💾 Always looking 4 new ways to collaborate
-- 📫 Please contact me @: miguel.fernandes.idesign@gmail.com
+- 👀 Coding
+- 💻 learning
+- 💾 Collaborate # Cooperate # participate
+- 📫 contact @: miguel.fernandes.idesign@gmail.com
